@@ -66,7 +66,7 @@ vim.opt.expandtab = true
 vim.opt.autoindent = true
 
 -- Word wrap
-vim.opt.wrap = false
+vim.opt.wrap = true
 
 -- Netrw config
 vim.g.netrw_banner = 1 -- remove help banner
